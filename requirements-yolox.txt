@@ -1,7 +1,7 @@
 cython
 setuptools
-numpy>=1.16.*
-imgaug>=0.4.*
+numpy>=1.16.0
+imgaug>=0.4.0
 opencv_python
 scikit_image
 asyncio
@@ -22,6 +22,6 @@ pytorch_lightning
 ipywidgets
 gevent
 termcolor
-sklearn
+scikit-learn
 thop
 loguru
